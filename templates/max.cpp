@@ -3,14 +3,14 @@
  *
  *       Filename:  max.cpp
  *
- *    Description:  max() template
+ *    Description:  max(a, b) return maximum value
  *
  *        Version:  1.0
  *        Created:  02/20/2017 10:07:18 PM
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  YOUR NAME (), 
+ *         Author:  Amit Ghadge, 
  *   Organization:  
  *
  * =====================================================================================
